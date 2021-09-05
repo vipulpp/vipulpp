@@ -1,2 +1,5 @@
 Maruti 800
 Innova
+i10
+i20
+M XUV
